@@ -1,0 +1,5 @@
+.proposal-container {
+    background-image: url('https://path-to-your-image.jpg');
+    background-size: cover;
+    height: 100vh;
+}
