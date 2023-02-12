@@ -99,6 +99,8 @@ export const Carusel = () => {
             alt={item.altText}
             style={{
               height: "100vh",
+              width: "50vw",
+              objectFit: "cover",
             }}
           />
         </div>
