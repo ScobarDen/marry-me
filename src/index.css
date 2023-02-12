@@ -1,5 +1,12 @@
-.proposal-container {
-    background-image: url('https://path-to-your-image.jpg');
-    background-size: cover;
-    height: 100vh;
-}
+/*.proposal-container {*/
+/*    background-image: url('https://path-to-first-image.jpg'),*/
+/*    url('https://path-to-second-image.jpg'),*/
+/*    url('https://path-to-third-image.jpg');*/
+/*    background-size: 50% 50%, 50% 50%, 50% 50%;*/
+/*    background-position: top left, top right, bottom center;*/
+/*    height: 100vh;*/
+/*}*/
+
+/*p{*/
+/*    font-size: 1.5rem;*/
+/*}*/
